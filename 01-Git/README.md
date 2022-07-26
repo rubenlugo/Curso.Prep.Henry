@@ -110,3 +110,6 @@ Sabiendo esto, el flujo de trabajo básico en Git sería algo así:
 * [Git: tutorial oficial](https://git-scm.com/docs/gittutorial)
 * [Terminal turorial](https://www.davidbaumgold.com/tutorials/command-line/)
 
+npm istall
+npm install
+npm test {git}.test.js
